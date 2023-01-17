@@ -1,320 +1,320 @@
 fips,state,area_name,urban_influence_code_2013,ci90ub517_2019,ci90ub517p_2019,ci90ubinc_2019
-1001,AL,Autauga County,2.0,1850,19.4,63949
-1003,AL,Baldwin County,2.0,5987,17.2,65149
-1005,AL,Barbour County,6.0,1822,49.0,40122
-1007,AL,Bibb County,1.0,1050,32.7,53545
-1009,AL,Blount County,1.0,2493,25.8,59027
-1011,AL,Bullock County,6.0,807,53.2,35563
-1013,AL,Butler County,6.0,1307,41.9,42839
-1015,AL,Calhoun County,2.0,4996,28.5,51478
-1017,AL,Chambers County,5.0,1917,38.8,46692
-1019,AL,Cherokee County,6.0,1076,29.2,51189
-1021,AL,Chilton County,1.0,2158,27.9,54205
-1023,AL,Choctaw County,10.0,677,37.7,43851
-1025,AL,Clarke County,11.0,1380,38.0,48789
-1027,AL,Clay County,10.0,577,29.7,44411
-1029,AL,Cleburne County,4.0,585,24.3,57151
-1031,AL,Coffee County,5.0,2383,26.3,62075
-1033,AL,Colbert County,2.0,2057,24.9,50859
-1035,AL,Conecuh County,11.0,809,44.7,44285
-1037,AL,Coosa County,3.0,463,36.7,46575
-1039,AL,Covington County,6.0,1897,32.4,47729
-1041,AL,Crenshaw County,6.0,748,32.4,46855
-1043,AL,Cullman County,3.0,2888,21.8,53931
-1045,AL,Dale County,5.0,2551,32.8,49084
-1047,AL,Dallas County,5.0,3090,48.7,37741
-1049,AL,DeKalb County,6.0,4487,35.5,48239
-1051,AL,Elmore County,2.0,2929,22.2,67026
-1053,AL,Escambia County,6.0,1921,32.4,47598
-1055,AL,Etowah County,2.0,4902,31.8,46634
-1057,AL,Fayette County,6.0,755,30.3,49241
-1059,AL,Franklin County,6.0,1728,31.2,49679
-1061,AL,Geneva County,2.0,1375,32.2,47394
-1063,AL,Greene County,6.0,765,59.0,31654
-1065,AL,Hale County,2.0,990,41.9,45243
-1067,AL,Henry County,2.0,905,35.3,53744
-1069,AL,Houston County,2.0,5201,30.1,52814
-1071,AL,Jackson County,5.0,1954,25.2,47960
-1073,AL,Jefferson County,1.0,25580,24.2,56401
-1075,AL,Lamar County,7.0,588,27.5,47687
-1077,AL,Lauderdale County,2.0,3208,24.4,52114
-1079,AL,Lawrence County,2.0,1458,28.1,52931
-1081,AL,Lee County,2.0,4612,18.6,58888
-1083,AL,Limestone County,2.0,2939,18.0,70236
-1085,AL,Lowndes County,2.0,741,48.0,38066
-1087,AL,Macon County,6.0,1127,52.6,37904
-1089,AL,Madison County,2.0,10334,17.8,72377
-1091,AL,Marengo County,11.0,1379,45.2,43313
-1093,AL,Marion County,11.0,1306,29.0,47572
-1095,AL,Marshall County,5.0,4723,27.8,52758
-1097,AL,Mobile County,2.0,19494,28.7,51239
-1099,AL,Monroe County,11.0,1314,40.3,44713
-1101,AL,Montgomery County,2.0,11314,30.7,54556
-1103,AL,Morgan County,2.0,4410,22.3,57269
-1105,AL,Perry County,4.0,830,61.7,33149
-1107,AL,Pickens County,2.0,1186,42.5,44139
-1109,AL,Pike County,5.0,1530,34.4,44468
-1111,AL,Randolph County,4.0,1296,37.4,47592
-1113,AL,Russell County,2.0,3404,34.9,47706
-1115,AL,St. Clair County,1.0,2758,18.7,69934
-1117,AL,Shelby County,1.0,3563,9.4,82640
-1119,AL,Sumter County,6.0,964,59.1,32537
-1121,AL,Talladega County,3.0,3671,30.9,52470
-1123,AL,Tallapoosa County,6.0,1965,32.9,50911
-1125,AL,Tuscaloosa County,2.0,7887,25.6,55323
-1127,AL,Walker County,1.0,2995,29.9,49890
-1129,AL,Washington County,7.0,892,33.6,54397
-1131,AL,Wilcox County,10.0,1085,62.0,33656
-1133,AL,Winston County,4.0,994,28.8,45450
-2013,AK,Aleutians East Borough,12.0,28,15.6,75140
-2016,AK,Aleutians West Census Area,11.0,33,7.4,94038
-2020,AK,Anchorage Borough,2.0,5906,12.4,85950
-2050,AK,Bethel Census Area,11.0,1772,39.8,53411
-2060,AK,Bristol Bay Borough,12.0,15,17.7,98600
-2068,AK,Denali Borough,7.0,32,10.6,88058
-2070,AK,Dillingham Census Area,12.0,383,36.9,63888
-2090,AK,Fairbanks North Star Borough,2.0,1664,10.9,80326
-2100,AK,Haines Borough,12.0,64,19.0,70237
-2105,AK,Hoonah-Angoon Census Area,10.0,88,31.3,59288
-2110,AK,Juneau Borough,8.0,473,9.9,91512
-2122,AK,Kenai Peninsula Borough,11.0,1503,16.0,75391
-2130,AK,Ketchikan Gateway Borough,8.0,297,14.1,82605
-2150,AK,Kodiak Island Borough,11.0,248,11.2,87728
-2158,AK,Kusilvak Census Area,12.0,1176,50.7,39137
-2164,AK,Lake and Peninsula Borough,12.0,108,37.0,57805
-2170,AK,Matanuska-Susitna Borough,2.0,2549,12.4,79508
-2180,AK,Nome Census Area,11.0,789,32.8,64449
-2185,AK,North Slope Borough,11.0,357,19.6,94351
-2188,AK,Northwest Arctic Borough,11.0,696,36.2,68506
-2195,AK,Petersburg Borough,11.0,55,11.5,78355
-2198,AK,Prince of Wales-Hyder Census Area,10.0,298,29.1,55917
-2220,AK,Sitka Borough,11.0,137,10.8,87509
-2230,AK,Skagway Municipality,12.0,13,10.2,82537
-2240,AK,Southeast Fairbanks Census Area,12.0,251,21.5,76130
-2261,AK,Valdez-Cordova Census Area,11.0,193,12.9,83552
-2275,AK,Wrangell City and Borough,12.0,50,13.4,70090
-2282,AK,Yakutat Borough,12.0,28,40.2,68932
-2290,AK,Yukon-Koyukuk Census Area,12.0,401,38.7,46913
-4001,AZ,Apache County,6.0,7715,53.6,39141
-4003,AZ,Cochise County,2.0,5976,30.9,51302
-4005,AZ,Coconino County,2.0,4034,19.4,62688
-4007,AZ,Gila County,3.0,2985,39.4,50693
-4009,AZ,Graham County,8.0,2212,29.6,55615
-4011,AZ,Greenlee County,9.0,247,14.1,74865
-4012,AZ,La Paz County,4.0,1040,42.4,43497
-4013,AZ,Maricopa County,1.0,131963,17.4,69700
-4015,AZ,Mohave County,2.0,8353,33.0,51802
-4017,AZ,Navajo County,5.0,8367,39.4,43930
-4019,AZ,Pima County,2.0,31303,20.2,57712
-4021,AZ,Pinal County,1.0,14634,19.5,64360
-4023,AZ,Santa Cruz County,5.0,3177,35.1,51898
-4025,AZ,Yavapai County,2.0,5766,21.1,57761
-4027,AZ,Yuma County,2.0,12833,33.8,50315
-5001,AR,Arkansas County,6.0,878,31.3,56526
-5003,AR,Ashley County,11.0,1059,33.1,52392
-5005,AR,Baxter County,8.0,1274,23.4,44451
-5007,AR,Benton County,2.0,7155,13.7,74735
-5009,AR,Boone County,8.0,1348,21.9,52839
-5011,AR,Bradley County,9.0,742,38.7,44772
-5013,AR,Calhoun County,8.0,189,25.6,53489
-5015,AR,Carroll County,6.0,1153,26.2,48740
-5017,AR,Chicot County,9.0,931,57.0,40587
-5019,AR,Clark County,8.0,890,29.7,49236
-5021,AR,Clay County,9.0,699,31.8,44804
-5023,AR,Cleburne County,6.0,959,27.3,50735
-5025,AR,Cleveland County,2.0,315,24.5,59632
-5027,AR,Columbia County,8.0,1185,35.1,47921
-5029,AR,Conway County,6.0,995,29.8,51032
-5031,AR,Craighead County,2.0,5216,27.0,51684
-5033,AR,Crawford County,2.0,3301,29.6,48185
-5035,AR,Crittenden County,1.0,3534,38.6,46152
-5037,AR,Cross County,4.0,962,35.1,50054
-5039,AR,Dallas County,6.0,389,42.0,45879
-5041,AR,Desha County,6.0,977,46.2,41436
-5043,AR,Drew County,6.0,866,32.1,49279
-5045,AR,Faulkner County,2.0,3764,18.2,63401
-5047,AR,Franklin County,6.0,824,28.6,51085
-5049,AR,Fulton County,9.0,639,33.2,35586
-5051,AR,Garland County,2.0,3795,27.5,48946
-5053,AR,Grant County,2.0,591,19.8,64336
-5055,AR,Greene County,5.0,1888,24.3,51752
-5057,AR,Hempstead County,6.0,1374,34.7,45668
-5059,AR,Hot Spring County,5.0,1627,33.3,51362
-5061,AR,Howard County,6.0,788,31.9,46374
-5063,AR,Independence County,8.0,1694,26.0,52549
-5065,AR,Izard County,10.0,532,28.9,44824
-5067,AR,Jackson County,6.0,970,40.9,42949
-5069,AR,Jefferson County,2.0,3973,38.5,43718
-5071,AR,Johnson County,9.0,1338,28.5,44756
-5073,AR,Lafayette County,7.0,384,45.2,41695
-5075,AR,Lawrence County,6.0,915,35.8,43368
-5077,AR,Lee County,9.0,624,55.0,33455
-5079,AR,Lincoln County,2.0,569,36.1,48795
-5081,AR,Little River County,2.0,647,32.2,47950
-5083,AR,Logan County,6.0,917,29.2,45403
-5085,AR,Lonoke County,2.0,2539,18.6,67528
-5087,AR,Madison County,2.0,879,32.2,53062
-5089,AR,Marion County,10.0,773,35.2,43065
-5091,AR,Miller County,2.0,2210,31.1,54146
-5093,AR,Mississippi County,3.0,2809,37.5,43800
-5095,AR,Monroe County,9.0,506,52.9,38368
-5097,AR,Montgomery County,7.0,467,40.3,44152
-5099,AR,Nevada County,9.0,621,46.1,40988
-5101,AR,Newton County,8.0,439,41.0,41863
-5103,AR,Ouachita County,8.0,1329,35.2,50868
-5105,AR,Perry County,2.0,529,31.7,55987
-5107,AR,Phillips County,3.0,1975,62.5,35020
-5109,AR,Pike County,10.0,521,30.8,48187
-5111,AR,Poinsett County,2.0,1548,39.2,44771
-5113,AR,Polk County,11.0,1094,32.6,43809
-5115,AR,Pope County,8.0,2332,22.7,52271
-5117,AR,Prairie County,7.0,343,28.7,50460
-5119,AR,Pulaski County,2.0,14459,22.8,55536
-5121,AR,Randolph County,9.0,950,32.3,47001
-5123,AR,St. Francis County,3.0,1914,53.5,38148
-5125,AR,Saline County,2.0,3483,16.7,71554
-5127,AR,Scott County,6.0,620,36.8,42233
-5129,AR,Searcy County,10.0,499,45.1,38081
-5131,AR,Sebastian County,2.0,5433,25.1,52108
-5133,AR,Sevier County,6.0,1123,31.7,48237
-5135,AR,Sharp County,9.0,1111,43.2,41720
-5137,AR,Stone County,9.0,681,39.2,40961
-5139,AR,Union County,8.0,2001,30.1,51086
-5141,AR,Van Buren County,6.0,794,33.5,42063
-5143,AR,Washington County,2.0,7959,19.5,55588
-5145,AR,White County,5.0,3249,24.6,50504
-5147,AR,Woodruff County,10.0,452,45.8,40666
-5149,AR,Yell County,5.0,1129,30.0,48993
-6001,CA,Alameda County,1.0,26048,10.8,109824
-6003,CA,Alpine County,4.0,51,34.4,65255
-6005,CA,Amador County,4.0,699,16.3,66511
-6007,CA,Butte County,2.0,6194,19.6,62398
-6009,CA,Calaveras County,6.0,1353,24.5,74734
-6011,CA,Colusa County,4.0,763,17.9,65340
-6013,CA,Contra Costa County,1.0,20762,10.8,109756
-6015,CA,Del Norte County,8.0,1364,32.4,54039
-6017,CA,El Dorado County,1.0,2865,10.0,91403
-6019,CA,Fresno County,2.0,63052,31.1,59235
-6021,CA,Glenn County,6.0,1291,23.6,61535
-6023,CA,Humboldt County,8.0,4652,25.8,54822
-6025,CA,Imperial County,2.0,12441,33.9,51027
-6027,CA,Inyo County,11.0,528,19.6,66041
-6029,CA,Kern County,2.0,54459,29.1,55374
-6031,CA,Kings County,2.0,7253,24.8,61235
-6033,CA,Lake County,5.0,3003,31.6,50376
-6035,CA,Lassen County,8.0,687,18.7,57898
-6037,CA,Los Angeles County,1.0,291598,19.0,73365
-6039,CA,Madera County,2.0,9121,29.5,65284
-6041,CA,Marin County,1.0,3078,7.9,118255
-6043,CA,Mariposa County,7.0,580,28.9,58928
-6045,CA,Mendocino County,5.0,3074,23.9,55830
-6047,CA,Merced County,2.0,15848,26.9,62653
-6049,CA,Modoc County,6.0,471,38.9,50333
-6051,CA,Mono County,11.0,278,15.0,74300
-6053,CA,Monterey County,2.0,15693,19.4,79257
-6055,CA,Napa County,2.0,2110,10.2,95206
-6057,CA,Nevada County,3.0,2070,16.8,75138
-6059,CA,Orange County,1.0,68521,13.8,96867
-6061,CA,Placer County,1.0,5962,9.1,101106
-6063,CA,Plumas County,12.0,578,25.2,66038
-6065,CA,Riverside County,1.0,66144,14.8,74426
-6067,CA,Sacramento County,1.0,44602,17.1,73216
-6069,CA,San Benito County,1.0,1942,16.7,91048
-6071,CA,San Bernardino County,1.0,81793,20.0,69211
-6073,CA,San Diego County,1.0,71064,14.1,85201
-6075,CA,San Francisco County,1.0,9710,12.7,125529
-6077,CA,San Joaquin County,2.0,28189,19.0,70843
-6079,CA,San Luis Obispo County,2.0,4916,13.7,79880
-6081,CA,San Mateo County,1.0,8165,7.4,140574
-6083,CA,Santa Barbara County,2.0,11033,16.0,78323
-6085,CA,Santa Clara County,1.0,19629,6.5,135527
-6087,CA,Santa Cruz County,2.0,5107,13.6,91358
-6089,CA,Shasta County,2.0,5592,20.5,64169
-6091,CA,Sierra County,7.0,85,24.7,62638
-6093,CA,Siskiyou County,6.0,2058,32.2,50613
-6095,CA,Solano County,2.0,9389,13.4,89000
-6097,CA,Sonoma County,2.0,6411,9.2,90010
-6099,CA,Stanislaus County,2.0,20081,18.7,65244
-6101,CA,Sutter County,2.0,3962,22.0,65372
-6103,CA,Tehama County,5.0,3279,29.4,57361
-6105,CA,Trinity County,6.0,515,34.5,48587
-6107,CA,Tulare County,2.0,31412,30.1,59151
-6109,CA,Tuolumne County,5.0,1279,19.6,70343
-6111,CA,Ventura County,2.0,18237,13.1,94228
-6113,CA,Yolo County,1.0,5347,16.0,74897
-6115,CA,Yuba County,2.0,3688,24.4,60126
-8001,CO,Adams County,1.0,13397,13.7,77719
-8003,CO,Alamosa County,11.0,910,31.8,41464
-8005,CO,Arapahoe County,1.0,12429,11.2,84971
-8007,CO,Archuleta County,10.0,493,26.8,64002
-8009,CO,Baca County,12.0,215,36.2,43639
-8011,CO,Bent County,12.0,258,39.4,40059
-8013,CO,Boulder County,2.0,4180,9.0,91541
-8014,CO,Broomfield County,1.0,625,5.2,114862
-8015,CO,Chaffee County,11.0,352,15.6,66284
-8017,CO,Cheyenne County,12.0,89,26.7,57830
-8019,CO,Clear Creek County,1.0,128,12.0,88730
-8021,CO,Conejos County,12.0,513,33.3,45538
-8023,CO,Costilla County,12.0,274,50.3,38489
-8025,CO,Crowley County,7.0,194,36.9,42396
-8027,CO,Custer County,7.0,174,34.0,63123
-8029,CO,Delta County,6.0,1130,24.8,56921
-8031,CO,Denver County,1.0,17851,18.8,77164
-8033,CO,Dolores County,12.0,60,18.7,56250
-8035,CO,Douglas County,1.0,1985,2.9,127525
-8037,CO,Eagle County,8.0,770,8.9,98649
-8039,CO,Elbert County,1.0,371,8.4,111096
-8041,CO,El Paso County,2.0,15411,12.7,74451
-8043,CO,Fremont County,5.0,1370,24.9,56747
-8045,CO,Garfield County,8.0,1502,14.1,80523
-8047,CO,Gilpin County,1.0,54,7.9,83963
-8049,CO,Grand County,10.0,232,11.6,78752
-8051,CO,Gunnison County,11.0,263,12.0,67282
-8053,CO,Hinsdale County,12.0,20,23.7,68382
-8055,CO,Huerfano County,6.0,361,43.3,44771
-8057,CO,Jackson County,10.0,42,24.7,60033
-8059,CO,Jefferson County,1.0,8692,10.5,92518
-8061,CO,Kiowa County,12.0,52,24.2,51901
-8063,CO,Kit Carson County,11.0,348,26.0,46789
-8065,CO,Lake County,4.0,265,23.7,63382
-8067,CO,La Plata County,5.0,1289,16.9,81198
-8069,CO,Larimer County,2.0,5375,10.6,78021
-8071,CO,Las Animas County,11.0,627,33.1,48215
-8073,CO,Lincoln County,7.0,233,28.8,48182
-8075,CO,Logan County,8.0,647,23.2,64101
-8077,CO,Mesa County,2.0,3961,16.8,63081
-8079,CO,Mineral County,12.0,16,22.2,70502
-8081,CO,Moffat County,8.0,390,16.1,70457
-8083,CO,Montezuma County,6.0,1246,29.7,57869
-8085,CO,Montrose County,5.0,1545,23.1,54814
-8087,CO,Morgan County,3.0,992,18.8,64029
-8089,CO,Otero County,6.0,1311,41.0,48634
-8091,CO,Ouray County,10.0,69,11.6,81667
-8093,CO,Park County,1.0,328,15.7,85467
-8095,CO,Phillips County,10.0,150,19.5,59788
-8097,CO,Pitkin County,8.0,140,7.4,102878
-8099,CO,Prowers County,11.0,739,33.3,52190
-8101,CO,Pueblo County,2.0,7739,28.4,54742
-8103,CO,Rio Blanco County,10.0,175,15.3,73999
-8105,CO,Rio Grande County,11.0,534,28.9,54278
-8107,CO,Routt County,8.0,305,9.0,97682
-8109,CO,Saguache County,12.0,498,47.5,41455
-8111,CO,San Juan County,10.0,17,28.0,55856
-8113,CO,San Miguel County,12.0,124,11.7,83878
-8115,CO,Sedgwick County,10.0,105,31.0,47704
-8117,CO,Summit County,8.0,290,8.3,95807
-8119,CO,Teller County,2.0,495,15.2,78195
-8121,CO,Washington County,10.0,180,22.3,58777
-8123,CO,Weld County,2.0,7369,12.3,81809
-8125,CO,Yuma County,11.0,399,20.2,58875
-9001,CT,Fairfield County,2.0,21046,13.5,100771
-9003,CT,Hartford County,1.0,20538,15.1,77391
-9005,CT,Litchfield County,3.0,2563,10.5,84804
-9007,CT,Middlesex County,1.0,1795,8.5,88829
-9009,CT,New Haven County,2.0,24859,19.9,72375
-9011,CT,New London County,2.0,5007,13.5,79379
-9013,CT,Tolland County,1.0,1482,7.7,96768
-9015,CT,Windham County,2.0,2819,17.1,68291
+01001,AL,Autauga County,2.0,1850,19.4,63949
+01003,AL,Baldwin County,2.0,5987,17.2,65149
+01005,AL,Barbour County,6.0,1822,49.0,40122
+01007,AL,Bibb County,1.0,1050,32.7,53545
+01009,AL,Blount County,1.0,2493,25.8,59027
+01011,AL,Bullock County,6.0,807,53.2,35563
+01013,AL,Butler County,6.0,1307,41.9,42839
+01015,AL,Calhoun County,2.0,4996,28.5,51478
+01017,AL,Chambers County,5.0,1917,38.8,46692
+01019,AL,Cherokee County,6.0,1076,29.2,51189
+01021,AL,Chilton County,1.0,2158,27.9,54205
+01023,AL,Choctaw County,10.0,677,37.7,43851
+01025,AL,Clarke County,11.0,1380,38.0,48789
+01027,AL,Clay County,10.0,577,29.7,44411
+01029,AL,Cleburne County,4.0,585,24.3,57151
+01031,AL,Coffee County,5.0,2383,26.3,62075
+01033,AL,Colbert County,2.0,2057,24.9,50859
+01035,AL,Conecuh County,11.0,809,44.7,44285
+01037,AL,Coosa County,3.0,463,36.7,46575
+01039,AL,Covington County,6.0,1897,32.4,47729
+01041,AL,Crenshaw County,6.0,748,32.4,46855
+01043,AL,Cullman County,3.0,2888,21.8,53931
+01045,AL,Dale County,5.0,2551,32.8,49084
+01047,AL,Dallas County,5.0,3090,48.7,37741
+01049,AL,DeKalb County,6.0,4487,35.5,48239
+01051,AL,Elmore County,2.0,2929,22.2,67026
+01053,AL,Escambia County,6.0,1921,32.4,47598
+01055,AL,Etowah County,2.0,4902,31.8,46634
+01057,AL,Fayette County,6.0,755,30.3,49241
+01059,AL,Franklin County,6.0,1728,31.2,49679
+01061,AL,Geneva County,2.0,1375,32.2,47394
+01063,AL,Greene County,6.0,765,59.0,31654
+01065,AL,Hale County,2.0,990,41.9,45243
+01067,AL,Henry County,2.0,905,35.3,53744
+01069,AL,Houston County,2.0,5201,30.1,52814
+01071,AL,Jackson County,5.0,1954,25.2,47960
+01073,AL,Jefferson County,1.0,25580,24.2,56401
+01075,AL,Lamar County,7.0,588,27.5,47687
+01077,AL,Lauderdale County,2.0,3208,24.4,52114
+01079,AL,Lawrence County,2.0,1458,28.1,52931
+01081,AL,Lee County,2.0,4612,18.6,58888
+01083,AL,Limestone County,2.0,2939,18.0,70236
+01085,AL,Lowndes County,2.0,741,48.0,38066
+01087,AL,Macon County,6.0,1127,52.6,37904
+01089,AL,Madison County,2.0,10334,17.8,72377
+01091,AL,Marengo County,11.0,1379,45.2,43313
+01093,AL,Marion County,11.0,1306,29.0,47572
+01095,AL,Marshall County,5.0,4723,27.8,52758
+01097,AL,Mobile County,2.0,19494,28.7,51239
+01099,AL,Monroe County,11.0,1314,40.3,44713
+01101,AL,Montgomery County,2.0,11314,30.7,54556
+01103,AL,Morgan County,2.0,4410,22.3,57269
+01105,AL,Perry County,4.0,830,61.7,33149
+01107,AL,Pickens County,2.0,1186,42.5,44139
+01109,AL,Pike County,5.0,1530,34.4,44468
+01111,AL,Randolph County,4.0,1296,37.4,47592
+01113,AL,Russell County,2.0,3404,34.9,47706
+01115,AL,St. Clair County,1.0,2758,18.7,69934
+01117,AL,Shelby County,1.0,3563,9.4,82640
+01119,AL,Sumter County,6.0,964,59.1,32537
+01121,AL,Talladega County,3.0,3671,30.9,52470
+01123,AL,Tallapoosa County,6.0,1965,32.9,50911
+01125,AL,Tuscaloosa County,2.0,7887,25.6,55323
+01127,AL,Walker County,1.0,2995,29.9,49890
+01129,AL,Washington County,7.0,892,33.6,54397
+01131,AL,Wilcox County,10.0,1085,62.0,33656
+01133,AL,Winston County,4.0,994,28.8,45450
+02013,AK,Aleutians East Borough,12.0,28,15.6,75140
+02016,AK,Aleutians West Census Area,11.0,33,7.4,94038
+02020,AK,Anchorage Borough,2.0,5906,12.4,85950
+02050,AK,Bethel Census Area,11.0,1772,39.8,53411
+02060,AK,Bristol Bay Borough,12.0,15,17.7,98600
+02068,AK,Denali Borough,7.0,32,10.6,88058
+02070,AK,Dillingham Census Area,12.0,383,36.9,63888
+02090,AK,Fairbanks North Star Borough,2.0,1664,10.9,80326
+02100,AK,Haines Borough,12.0,64,19.0,70237
+02105,AK,Hoonah-Angoon Census Area,10.0,88,31.3,59288
+02110,AK,Juneau Borough,8.0,473,9.9,91512
+02122,AK,Kenai Peninsula Borough,11.0,1503,16.0,75391
+02130,AK,Ketchikan Gateway Borough,8.0,297,14.1,82605
+02150,AK,Kodiak Island Borough,11.0,248,11.2,87728
+02158,AK,Kusilvak Census Area,12.0,1176,50.7,39137
+02164,AK,Lake and Peninsula Borough,12.0,108,37.0,57805
+02170,AK,Matanuska-Susitna Borough,2.0,2549,12.4,79508
+02180,AK,Nome Census Area,11.0,789,32.8,64449
+02185,AK,North Slope Borough,11.0,357,19.6,94351
+02188,AK,Northwest Arctic Borough,11.0,696,36.2,68506
+02195,AK,Petersburg Borough,11.0,55,11.5,78355
+02198,AK,Prince of Wales-Hyder Census Area,10.0,298,29.1,55917
+02220,AK,Sitka Borough,11.0,137,10.8,87509
+02230,AK,Skagway Municipality,12.0,13,10.2,82537
+02240,AK,Southeast Fairbanks Census Area,12.0,251,21.5,76130
+02261,AK,Valdez-Cordova Census Area,11.0,193,12.9,83552
+02275,AK,Wrangell City and Borough,12.0,50,13.4,70090
+02282,AK,Yakutat Borough,12.0,28,40.2,68932
+02290,AK,Yukon-Koyukuk Census Area,12.0,401,38.7,46913
+04001,AZ,Apache County,6.0,7715,53.6,39141
+04003,AZ,Cochise County,2.0,5976,30.9,51302
+04005,AZ,Coconino County,2.0,4034,19.4,62688
+04007,AZ,Gila County,3.0,2985,39.4,50693
+04009,AZ,Graham County,8.0,2212,29.6,55615
+04011,AZ,Greenlee County,9.0,247,14.1,74865
+04012,AZ,La Paz County,4.0,1040,42.4,43497
+04013,AZ,Maricopa County,1.0,131963,17.4,69700
+04015,AZ,Mohave County,2.0,8353,33.0,51802
+04017,AZ,Navajo County,5.0,8367,39.4,43930
+04019,AZ,Pima County,2.0,31303,20.2,57712
+04021,AZ,Pinal County,1.0,14634,19.5,64360
+04023,AZ,Santa Cruz County,5.0,3177,35.1,51898
+04025,AZ,Yavapai County,2.0,5766,21.1,57761
+04027,AZ,Yuma County,2.0,12833,33.8,50315
+05001,AR,Arkansas County,6.0,878,31.3,56526
+05003,AR,Ashley County,11.0,1059,33.1,52392
+05005,AR,Baxter County,8.0,1274,23.4,44451
+05007,AR,Benton County,2.0,7155,13.7,74735
+05009,AR,Boone County,8.0,1348,21.9,52839
+05011,AR,Bradley County,9.0,742,38.7,44772
+05013,AR,Calhoun County,8.0,189,25.6,53489
+05015,AR,Carroll County,6.0,1153,26.2,48740
+05017,AR,Chicot County,9.0,931,57.0,40587
+05019,AR,Clark County,8.0,890,29.7,49236
+05021,AR,Clay County,9.0,699,31.8,44804
+05023,AR,Cleburne County,6.0,959,27.3,50735
+05025,AR,Cleveland County,2.0,315,24.5,59632
+05027,AR,Columbia County,8.0,1185,35.1,47921
+05029,AR,Conway County,6.0,995,29.8,51032
+05031,AR,Craighead County,2.0,5216,27.0,51684
+05033,AR,Crawford County,2.0,3301,29.6,48185
+05035,AR,Crittenden County,1.0,3534,38.6,46152
+05037,AR,Cross County,4.0,962,35.1,50054
+05039,AR,Dallas County,6.0,389,42.0,45879
+05041,AR,Desha County,6.0,977,46.2,41436
+05043,AR,Drew County,6.0,866,32.1,49279
+05045,AR,Faulkner County,2.0,3764,18.2,63401
+05047,AR,Franklin County,6.0,824,28.6,51085
+05049,AR,Fulton County,9.0,639,33.2,35586
+05051,AR,Garland County,2.0,3795,27.5,48946
+05053,AR,Grant County,2.0,591,19.8,64336
+05055,AR,Greene County,5.0,1888,24.3,51752
+05057,AR,Hempstead County,6.0,1374,34.7,45668
+05059,AR,Hot Spring County,5.0,1627,33.3,51362
+05061,AR,Howard County,6.0,788,31.9,46374
+05063,AR,Independence County,8.0,1694,26.0,52549
+05065,AR,Izard County,10.0,532,28.9,44824
+05067,AR,Jackson County,6.0,970,40.9,42949
+05069,AR,Jefferson County,2.0,3973,38.5,43718
+05071,AR,Johnson County,9.0,1338,28.5,44756
+05073,AR,Lafayette County,7.0,384,45.2,41695
+05075,AR,Lawrence County,6.0,915,35.8,43368
+05077,AR,Lee County,9.0,624,55.0,33455
+05079,AR,Lincoln County,2.0,569,36.1,48795
+05081,AR,Little River County,2.0,647,32.2,47950
+05083,AR,Logan County,6.0,917,29.2,45403
+05085,AR,Lonoke County,2.0,2539,18.6,67528
+05087,AR,Madison County,2.0,879,32.2,53062
+05089,AR,Marion County,10.0,773,35.2,43065
+05091,AR,Miller County,2.0,2210,31.1,54146
+05093,AR,Mississippi County,3.0,2809,37.5,43800
+05095,AR,Monroe County,9.0,506,52.9,38368
+05097,AR,Montgomery County,7.0,467,40.3,44152
+05099,AR,Nevada County,9.0,621,46.1,40988
+05101,AR,Newton County,8.0,439,41.0,41863
+05103,AR,Ouachita County,8.0,1329,35.2,50868
+05105,AR,Perry County,2.0,529,31.7,55987
+05107,AR,Phillips County,3.0,1975,62.5,35020
+05109,AR,Pike County,10.0,521,30.8,48187
+05111,AR,Poinsett County,2.0,1548,39.2,44771
+05113,AR,Polk County,11.0,1094,32.6,43809
+05115,AR,Pope County,8.0,2332,22.7,52271
+05117,AR,Prairie County,7.0,343,28.7,50460
+05119,AR,Pulaski County,2.0,14459,22.8,55536
+05121,AR,Randolph County,9.0,950,32.3,47001
+05123,AR,St. Francis County,3.0,1914,53.5,38148
+05125,AR,Saline County,2.0,3483,16.7,71554
+05127,AR,Scott County,6.0,620,36.8,42233
+05129,AR,Searcy County,10.0,499,45.1,38081
+05131,AR,Sebastian County,2.0,5433,25.1,52108
+05133,AR,Sevier County,6.0,1123,31.7,48237
+05135,AR,Sharp County,9.0,1111,43.2,41720
+05137,AR,Stone County,9.0,681,39.2,40961
+05139,AR,Union County,8.0,2001,30.1,51086
+05141,AR,Van Buren County,6.0,794,33.5,42063
+05143,AR,Washington County,2.0,7959,19.5,55588
+05145,AR,White County,5.0,3249,24.6,50504
+05147,AR,Woodruff County,10.0,452,45.8,40666
+05149,AR,Yell County,5.0,1129,30.0,48993
+06001,CA,Alameda County,1.0,26048,10.8,109824
+06003,CA,Alpine County,4.0,51,34.4,65255
+06005,CA,Amador County,4.0,699,16.3,66511
+06007,CA,Butte County,2.0,6194,19.6,62398
+06009,CA,Calaveras County,6.0,1353,24.5,74734
+06011,CA,Colusa County,4.0,763,17.9,65340
+06013,CA,Contra Costa County,1.0,20762,10.8,109756
+06015,CA,Del Norte County,8.0,1364,32.4,54039
+06017,CA,El Dorado County,1.0,2865,10.0,91403
+06019,CA,Fresno County,2.0,63052,31.1,59235
+06021,CA,Glenn County,6.0,1291,23.6,61535
+06023,CA,Humboldt County,8.0,4652,25.8,54822
+06025,CA,Imperial County,2.0,12441,33.9,51027
+06027,CA,Inyo County,11.0,528,19.6,66041
+06029,CA,Kern County,2.0,54459,29.1,55374
+06031,CA,Kings County,2.0,7253,24.8,61235
+06033,CA,Lake County,5.0,3003,31.6,50376
+06035,CA,Lassen County,8.0,687,18.7,57898
+06037,CA,Los Angeles County,1.0,291598,19.0,73365
+06039,CA,Madera County,2.0,9121,29.5,65284
+06041,CA,Marin County,1.0,3078,7.9,118255
+06043,CA,Mariposa County,7.0,580,28.9,58928
+06045,CA,Mendocino County,5.0,3074,23.9,55830
+06047,CA,Merced County,2.0,15848,26.9,62653
+06049,CA,Modoc County,6.0,471,38.9,50333
+06051,CA,Mono County,11.0,278,15.0,74300
+06053,CA,Monterey County,2.0,15693,19.4,79257
+06055,CA,Napa County,2.0,2110,10.2,95206
+06057,CA,Nevada County,3.0,2070,16.8,75138
+06059,CA,Orange County,1.0,68521,13.8,96867
+06061,CA,Placer County,1.0,5962,9.1,101106
+06063,CA,Plumas County,12.0,578,25.2,66038
+06065,CA,Riverside County,1.0,66144,14.8,74426
+06067,CA,Sacramento County,1.0,44602,17.1,73216
+06069,CA,San Benito County,1.0,1942,16.7,91048
+06071,CA,San Bernardino County,1.0,81793,20.0,69211
+06073,CA,San Diego County,1.0,71064,14.1,85201
+06075,CA,San Francisco County,1.0,9710,12.7,125529
+06077,CA,San Joaquin County,2.0,28189,19.0,70843
+06079,CA,San Luis Obispo County,2.0,4916,13.7,79880
+06081,CA,San Mateo County,1.0,8165,7.4,140574
+06083,CA,Santa Barbara County,2.0,11033,16.0,78323
+06085,CA,Santa Clara County,1.0,19629,6.5,135527
+06087,CA,Santa Cruz County,2.0,5107,13.6,91358
+06089,CA,Shasta County,2.0,5592,20.5,64169
+06091,CA,Sierra County,7.0,85,24.7,62638
+06093,CA,Siskiyou County,6.0,2058,32.2,50613
+06095,CA,Solano County,2.0,9389,13.4,89000
+06097,CA,Sonoma County,2.0,6411,9.2,90010
+06099,CA,Stanislaus County,2.0,20081,18.7,65244
+06101,CA,Sutter County,2.0,3962,22.0,65372
+06103,CA,Tehama County,5.0,3279,29.4,57361
+06105,CA,Trinity County,6.0,515,34.5,48587
+06107,CA,Tulare County,2.0,31412,30.1,59151
+06109,CA,Tuolumne County,5.0,1279,19.6,70343
+06111,CA,Ventura County,2.0,18237,13.1,94228
+06113,CA,Yolo County,1.0,5347,16.0,74897
+06115,CA,Yuba County,2.0,3688,24.4,60126
+08001,CO,Adams County,1.0,13397,13.7,77719
+08003,CO,Alamosa County,11.0,910,31.8,41464
+08005,CO,Arapahoe County,1.0,12429,11.2,84971
+08007,CO,Archuleta County,10.0,493,26.8,64002
+08009,CO,Baca County,12.0,215,36.2,43639
+08011,CO,Bent County,12.0,258,39.4,40059
+08013,CO,Boulder County,2.0,4180,9.0,91541
+08014,CO,Broomfield County,1.0,625,5.2,114862
+08015,CO,Chaffee County,11.0,352,15.6,66284
+08017,CO,Cheyenne County,12.0,89,26.7,57830
+08019,CO,Clear Creek County,1.0,128,12.0,88730
+08021,CO,Conejos County,12.0,513,33.3,45538
+08023,CO,Costilla County,12.0,274,50.3,38489
+08025,CO,Crowley County,7.0,194,36.9,42396
+08027,CO,Custer County,7.0,174,34.0,63123
+08029,CO,Delta County,6.0,1130,24.8,56921
+08031,CO,Denver County,1.0,17851,18.8,77164
+08033,CO,Dolores County,12.0,60,18.7,56250
+08035,CO,Douglas County,1.0,1985,2.9,127525
+08037,CO,Eagle County,8.0,770,8.9,98649
+08039,CO,Elbert County,1.0,371,8.4,111096
+08041,CO,El Paso County,2.0,15411,12.7,74451
+08043,CO,Fremont County,5.0,1370,24.9,56747
+08045,CO,Garfield County,8.0,1502,14.1,80523
+08047,CO,Gilpin County,1.0,54,7.9,83963
+08049,CO,Grand County,10.0,232,11.6,78752
+08051,CO,Gunnison County,11.0,263,12.0,67282
+08053,CO,Hinsdale County,12.0,20,23.7,68382
+08055,CO,Huerfano County,6.0,361,43.3,44771
+08057,CO,Jackson County,10.0,42,24.7,60033
+08059,CO,Jefferson County,1.0,8692,10.5,92518
+08061,CO,Kiowa County,12.0,52,24.2,51901
+08063,CO,Kit Carson County,11.0,348,26.0,46789
+08065,CO,Lake County,4.0,265,23.7,63382
+08067,CO,La Plata County,5.0,1289,16.9,81198
+08069,CO,Larimer County,2.0,5375,10.6,78021
+08071,CO,Las Animas County,11.0,627,33.1,48215
+08073,CO,Lincoln County,7.0,233,28.8,48182
+08075,CO,Logan County,8.0,647,23.2,64101
+08077,CO,Mesa County,2.0,3961,16.8,63081
+08079,CO,Mineral County,12.0,16,22.2,70502
+08081,CO,Moffat County,8.0,390,16.1,70457
+08083,CO,Montezuma County,6.0,1246,29.7,57869
+08085,CO,Montrose County,5.0,1545,23.1,54814
+08087,CO,Morgan County,3.0,992,18.8,64029
+08089,CO,Otero County,6.0,1311,41.0,48634
+08091,CO,Ouray County,10.0,69,11.6,81667
+08093,CO,Park County,1.0,328,15.7,85467
+08095,CO,Phillips County,10.0,150,19.5,59788
+08097,CO,Pitkin County,8.0,140,7.4,102878
+08099,CO,Prowers County,11.0,739,33.3,52190
+08101,CO,Pueblo County,2.0,7739,28.4,54742
+08103,CO,Rio Blanco County,10.0,175,15.3,73999
+08105,CO,Rio Grande County,11.0,534,28.9,54278
+08107,CO,Routt County,8.0,305,9.0,97682
+08109,CO,Saguache County,12.0,498,47.5,41455
+08111,CO,San Juan County,10.0,17,28.0,55856
+08113,CO,San Miguel County,12.0,124,11.7,83878
+08115,CO,Sedgwick County,10.0,105,31.0,47704
+08117,CO,Summit County,8.0,290,8.3,95807
+08119,CO,Teller County,2.0,495,15.2,78195
+08121,CO,Washington County,10.0,180,22.3,58777
+08123,CO,Weld County,2.0,7369,12.3,81809
+08125,CO,Yuma County,11.0,399,20.2,58875
+09001,CT,Fairfield County,2.0,21046,13.5,100771
+09003,CT,Hartford County,1.0,20538,15.1,77391
+09005,CT,Litchfield County,3.0,2563,10.5,84804
+09007,CT,Middlesex County,1.0,1795,8.5,88829
+09009,CT,New Haven County,2.0,24859,19.9,72375
+09011,CT,New London County,2.0,5007,13.5,79379
+09013,CT,Tolland County,1.0,1482,7.7,96768
+09015,CT,Windham County,2.0,2819,17.1,68291
 10001,DE,Kent County,2.0,6156,21.2,63412
 10003,DE,New Castle County,1.0,12392,14.6,78698
 10005,DE,Sussex County,2.0,7558,25.1,67864
