@@ -1,0 +1,4 @@
+matplotlib==3.5.2
+seaborn==0.12.1
+xlrd==2.0.1
+pandas-profiling==3.6.2
